@@ -1,6 +1,6 @@
 
 body {
-    font-family: 'Times New Roman';
+    font-family: 'Times New Roman', sans-serif;
     background-color: #000000;
     color: #FFFFFF;
 }
@@ -24,8 +24,9 @@ p {
 
 img {
     clear: both;
-    align-items: center;
     width: 550px;
+    margin: auto;
+    display: block;
 }
 
 #red {
