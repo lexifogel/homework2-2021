@@ -24,9 +24,9 @@ p {
 
 img {
     clear: both;
+    display: block;
     width: 550px;
     margin: auto;
-    display: block;
 }
 
 #red {
