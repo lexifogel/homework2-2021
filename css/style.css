@@ -28,11 +28,6 @@ img {
     clear: both;
 }
 
-div {
-    min-height: 150px;
-    padding: 25px;
-}
-
 #red {
     background-color: #FF0000;
     text-align: right;
@@ -63,7 +58,7 @@ div {
     padding: 25px;
 }
 
-.footer p {
+p.footer {
     text-align: center;
     padding-bottom: 10px;
     padding-right: 10px;
