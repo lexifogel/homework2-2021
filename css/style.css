@@ -16,12 +16,6 @@ h2 {
     text-shadow: 4px 4px 2px #808080;
 }
 
-.footer p {
-    text-align: center;
-    padding-bottom: 10px;
-    padding-right: 10px;
-}
-
 p {
     font-size: 24px;
     padding-top: 15px;
@@ -62,5 +56,11 @@ img {
     text-align: left;
     min-height: 150px;
     padding: 25px;
+}
+
+footer p {
+    text-align: center;
+    padding-bottom: 10px;
+    padding-right: 10px;
 }
 
