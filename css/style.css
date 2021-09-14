@@ -36,11 +36,15 @@ div {
 #red {
     background-color: #FF0000;
     text-align: right;
+    min-height: 150px;
+    padding: 25px;
 }
 
 #blue {
     background-color: #0000FF;
     text-align: left;
+    min-height: 150px;
+    padding: 25px;
 }
 
 #yellow {
@@ -48,11 +52,15 @@ div {
     text-align: right;
     color: #000000;
     text-shadow: 4px 4px 2px #c7e2c7; 
+    min-height: 150px;
+    padding: 25px;
 }
 
 #green {
     background-color: #008000;
     text-align: left;
+    min-height: 150px;
+    padding: 25px;
 }
 
 .footer p {
