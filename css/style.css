@@ -28,6 +28,11 @@ img {
     clear: both;
 }
 
+#intro {
+    padding: 25px;
+}
+
+
 #red {
     background-color: #FF0000;
     text-align: right;
@@ -46,9 +51,13 @@ img {
     background-color: #FFFF00;
     text-align: right;
     color: #000000;
-    text-shadow: 4px 4px 2px #c7e2c7; 
+
     min-height: 150px;
     padding: 25px;
+}
+
+#yellow h2 {
+    text-shadow: 4px 4px 2px #c7e2c7; 
 }
 
 #green {
